@@ -40,7 +40,7 @@ A few sentences describing the overall goals of the pull request's commits.
 - [ ] Documentation
 -->
 
-## Screenshots
+## Screenshots 
 Initial UI `/admin/coach`
 <img width="1850" height="937" alt="image" src="https://github.com/user-attachments/assets/36ad1e05-cad5-487c-b928-de9b9f42bae3" />
 
@@ -53,6 +53,25 @@ A/B Testing of Status Guide Component
 
 1. Carousel<img width="1846" height="870" alt="image" src="https://github.com/user-attachments/assets/6f3bb09b-f5d2-4ad4-b1c2-6c52739bce52" />
 2. Table<img width="1844" height="938" alt="image" src="https://github.com/user-attachments/assets/75cdd2cd-a6fe-4ccd-a701-99240e7be1b6" />
+
+
+
+Initial Dialog Update component
+<img width="1847" height="907" alt="image" src="https://github.com/user-attachments/assets/9bfb1274-c145-42db-befd-3d9d4de3272c" />
+
+Initial Confirm Changes Component - Dialog Confirm Component
+<img width="1840" height="908" alt="image" src="https://github.com/user-attachments/assets/81e41e72-d493-4393-8e4f-8ca78f4ba06e" />
+
+Confirmed Inputted Text Input 
+<img width="1846" height="908" alt="image" src="https://github.com/user-attachments/assets/39bd891c-cfeb-435a-aa2b-e70b936dc720" />
+
+If Coach Status is ABANDONED or REJECTED
+<img width="1848" height="907" alt="image" src="https://github.com/user-attachments/assets/b9221883-df79-43a7-a981-ef5a4127d5d2" />
+
+If proceed with Restore Mode
+<img width="1848" height="908" alt="image" src="https://github.com/user-attachments/assets/f30c896b-af8a-4260-97ca-0745cfa23088" />
+<img width="1847" height="906" alt="image" src="https://github.com/user-attachments/assets/d079d37b-eda0-4013-805d-af6faa73768d" />
+
 
 
 <!--
