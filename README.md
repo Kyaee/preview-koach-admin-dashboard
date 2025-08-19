@@ -41,13 +41,13 @@ A few sentences describing the overall goals of the pull request's commits.
 -->
 
 ## Screenshots 
-Initial UI `/admin/coach`
+**Initial UI** `/admin/coach`
 <img width="1850" height="937" alt="image" src="https://github.com/user-attachments/assets/36ad1e05-cad5-487c-b928-de9b9f42bae3" />
 
-On Hover of Status Pill: Changes display based on application status
+**On Hover of Status Pill: Changes display based on application status**
 <img width="1849" height="939" alt="image" src="https://github.com/user-attachments/assets/d52bebfa-18cc-4fdb-8b97-e3932252cfe8" />
 
-A/B Testing of Status Guide Component
+**A/B Testing of Status Guide Component**
 > Reused existing styles from global components & both are mobile responsive.
 > Carousel was pushed :33 but lemme know if I should push the Table instead of the Carousel
 
@@ -56,19 +56,22 @@ A/B Testing of Status Guide Component
 
 
 
-Initial Dialog Update component
+**Initial Dialog Update component**<br/>
+Behavior: Opens a dialog when clicking an applicant
 <img width="1847" height="907" alt="image" src="https://github.com/user-attachments/assets/9bfb1274-c145-42db-befd-3d9d4de3272c" />
 
-Initial Confirm Changes Component - Dialog Confirm Component
+**Initial Confirm Changes Component - Dialog Confirm Component**<br/>
+Behavior: When clicking `Confirmed Changes`, display another modal to confirm changes
 <img width="1840" height="908" alt="image" src="https://github.com/user-attachments/assets/81e41e72-d493-4393-8e4f-8ca78f4ba06e" />
 
-Confirmed Inputted Text Input 
+**Confirmed Inputted Text Input **<br/>
+Behavior: When clicking `Confirmed Changes`, display another modal to confirm changes
 <img width="1846" height="908" alt="image" src="https://github.com/user-attachments/assets/39bd891c-cfeb-435a-aa2b-e70b936dc720" />
 
-If Coach Status is ABANDONED or REJECTED
+**If Coach Status is ABANDONED or REJECTED**
 <img width="1848" height="907" alt="image" src="https://github.com/user-attachments/assets/b9221883-df79-43a7-a981-ef5a4127d5d2" />
 
-If proceed with Restore Mode
+**If proceed with Restore Mode**
 <img width="1848" height="908" alt="image" src="https://github.com/user-attachments/assets/f30c896b-af8a-4260-97ca-0745cfa23088" />
 <img width="1847" height="906" alt="image" src="https://github.com/user-attachments/assets/d079d37b-eda0-4013-805d-af6faa73768d" />
 
