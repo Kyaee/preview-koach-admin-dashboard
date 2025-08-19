@@ -5,14 +5,6 @@ Use the following template to describe your PR. Feel free to remove any unused p
 -->
 
 ## Status: :construction: In development
-❗ For testers, run `yarn install --frozen-lockfile`. I added a new package `react-papaparse`
-<!--
-Copy-paste one of the following three lines outside this comment
-
-:rocket: Ready
-:no_entry_sign: Do not merge
--->
-
 ## Description
 
 PR that includes the following features:
@@ -27,13 +19,6 @@ PR that includes the following features:
 <!--
 A few sentences describing the overall goals of the pull request's commits.
 -->
-
-## Todos
-- [x] UI helpers for coach application statuses
-- [x] Create storybook for UI helpers?
-- [x] Confirmation for Admin Status Changes
-- [x] Export filtered table as CSV
-- [ ] Fix stories deployment issue
 
 <!--
 - [ ] Tests
@@ -61,18 +46,18 @@ Behavior: Opens a dialog when clicking an applicant
 <img width="1847" height="907" alt="image" src="https://github.com/user-attachments/assets/9bfb1274-c145-42db-befd-3d9d4de3272c" />
 
 **Initial Confirm Changes Component - Dialog Confirm Component**<br/>
-Behavior: When clicking `Confirmed Changes`, display another modal to confirm changes
+Behavior: After clicking `Confirmed Changes`, display another modal to confirm changes
 <img width="1840" height="908" alt="image" src="https://github.com/user-attachments/assets/81e41e72-d493-4393-8e4f-8ca78f4ba06e" />
 
-**Confirmed Inputted Text Input **<br/>
-Behavior: When clicking `Confirmed Changes`, display another modal to confirm changes
+State: **Inputting the Confirmed Text Input**<br/>
 <img width="1846" height="908" alt="image" src="https://github.com/user-attachments/assets/39bd891c-cfeb-435a-aa2b-e70b936dc720" />
 
-**If Coach Status is ABANDONED or REJECTED**
+State: **If the Coach Application Status is ABANDONED or REJECTED**
 <img width="1848" height="907" alt="image" src="https://github.com/user-attachments/assets/b9221883-df79-43a7-a981-ef5a4127d5d2" />
 
-**If proceed with Restore Mode**
+State: **If Admin wants to restore all status option, they proceed with Restore Mode**
 <img width="1848" height="908" alt="image" src="https://github.com/user-attachments/assets/f30c896b-af8a-4260-97ca-0745cfa23088" />
+**By clicking it, they can select other options**
 <img width="1847" height="906" alt="image" src="https://github.com/user-attachments/assets/d079d37b-eda0-4013-805d-af6faa73768d" />
 
 
