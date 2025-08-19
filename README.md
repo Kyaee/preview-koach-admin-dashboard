@@ -47,7 +47,7 @@ A few sentences describing the overall goals of the pull request's commits.
 **On Hover of Status Pill: Changes display based on application status**
 <img width="1849" height="939" alt="image" src="https://github.com/user-attachments/assets/d52bebfa-18cc-4fdb-8b97-e3932252cfe8" />
 
-**A/B Testing of Status Guide Component**
+### A/B Testing of Status Guide Component
 > Reused existing styles from global components & both are mobile responsive.
 > Carousel was pushed :33 but lemme know if I should push the Table instead of the Carousel
 
@@ -55,7 +55,7 @@ A few sentences describing the overall goals of the pull request's commits.
 2. Table<img width="1844" height="938" alt="image" src="https://github.com/user-attachments/assets/75cdd2cd-a6fe-4ccd-a701-99240e7be1b6" />
 
 
-
+### Update and Confirm Coach Application
 **Initial Dialog Update component**<br/>
 Behavior: Opens a dialog when clicking an applicant
 <img width="1847" height="907" alt="image" src="https://github.com/user-attachments/assets/9bfb1274-c145-42db-befd-3d9d4de3272c" />
