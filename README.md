@@ -27,7 +27,7 @@ A few sentences describing the overall goals of the pull request's commits.
 
 ## Screenshots 
 **Initial UI** `/admin/coach`
-<img width="1850" height="937" alt="image" src="https://github.com/user-attachments/assets/36ad1e05-cad5-487c-b928-de9b9f42bae3" />
+<img width="1850" height="937" alt="Screenshot 2025-08-01 022400" src="https://github.com/user-attachments/assets/78bce642-4033-434b-9d0a-e78d7c461851" />
 
 **On Hover of Status Pill: Changes display based on application status**
 <img width="1849" height="939" alt="image" src="https://github.com/user-attachments/assets/d52bebfa-18cc-4fdb-8b97-e3932252cfe8" />
