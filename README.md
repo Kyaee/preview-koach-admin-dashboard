@@ -30,35 +30,38 @@ A few sentences describing the overall goals of the pull request's commits.
 <img width="1850" height="937" alt="Screenshot 2025-08-01 022400" src="https://github.com/user-attachments/assets/78bce642-4033-434b-9d0a-e78d7c461851" />
 
 **On Hover of Status Pill: Changes display based on application status**
-<img width="1849" height="939" alt="image" src="https://github.com/user-attachments/assets/d52bebfa-18cc-4fdb-8b97-e3932252cfe8" />
+<img width="1849" height="939" alt="Screenshot 2025-08-01 022431" src="https://github.com/user-attachments/assets/47b7c346-e02c-4fc9-90e7-c9547349429a" />
 
 ### A/B Testing of Status Guide Component
 > Reused existing styles from global components & both are mobile responsive.
 > Carousel was pushed :33 but lemme know if I should push the Table instead of the Carousel
 
-1. Carousel<img width="1846" height="870" alt="image" src="https://github.com/user-attachments/assets/6f3bb09b-f5d2-4ad4-b1c2-6c52739bce52" />
-2. Table<img width="1844" height="938" alt="image" src="https://github.com/user-attachments/assets/75cdd2cd-a6fe-4ccd-a701-99240e7be1b6" />
+1. Carousel<img width="1846" height="870" alt="Screenshot 2025-08-01 022538" src="https://github.com/user-attachments/assets/52af434f-809c-4e25-beba-efa5440b837d" />
+2. Table<img width="1844" height="938" alt="Screenshot 2025-08-01 022816" src="https://github.com/user-attachments/assets/80ae96c1-96aa-4fc3-99f6-f61c082666fc" />
+
 
 
 ### Update and Confirm Coach Application
 **Initial Dialog Update component**<br/>
 Behavior: Opens a dialog when clicking an applicant
-<img width="1847" height="907" alt="image" src="https://github.com/user-attachments/assets/9bfb1274-c145-42db-befd-3d9d4de3272c" />
+<img width="1847" height="907" alt="Screenshot 2025-08-05 193130" src="https://github.com/user-attachments/assets/ecdada79-73ff-4772-860c-fc332870ac1e" />
 
 **Initial Confirm Changes Component - Dialog Confirm Component**<br/>
 Behavior: After clicking `Confirmed Changes`, display another modal to confirm changes
 <img width="1840" height="908" alt="image" src="https://github.com/user-attachments/assets/81e41e72-d493-4393-8e4f-8ca78f4ba06e" />
 
 State: **Inputting the Confirmed Text Input**<br/>
-<img width="1846" height="908" alt="image" src="https://github.com/user-attachments/assets/39bd891c-cfeb-435a-aa2b-e70b936dc720" />
+<img width="1846" height="908" alt="Screenshot 2025-08-05 193350" src="https://github.com/user-attachments/assets/9f98532d-549d-43ea-8d55-95ef3e9c3b1e" />
+
 
 State: **If the Coach Application Status is ABANDONED or REJECTED**
-<img width="1848" height="907" alt="image" src="https://github.com/user-attachments/assets/b9221883-df79-43a7-a981-ef5a4127d5d2" />
+<img width="1848" height="907" alt="Screenshot 2025-08-05 193508" src="https://github.com/user-attachments/assets/1c57ddb3-97c1-4955-9a42-a4e9bcf4d67c" />
 
 State: **If Admin wants to restore all status option, they proceed with Restore Mode**
-<img width="1848" height="908" alt="image" src="https://github.com/user-attachments/assets/f30c896b-af8a-4260-97ca-0745cfa23088" />
+<img width="1848" height="908" alt="Screenshot 2025-08-05 193546" src="https://github.com/user-attachments/assets/1e560d8d-8d5c-4f8c-a0b7-3c1a56c84724" />
+
 **By clicking it, they can select other options**
-<img width="1847" height="906" alt="image" src="https://github.com/user-attachments/assets/d079d37b-eda0-4013-805d-af6faa73768d" />
+<img width="1847" height="906" alt="Screenshot 2025-08-05 193614" src="https://github.com/user-attachments/assets/3b25f3f6-225b-49dc-81b1-7374f835306b" />
 
 
 
