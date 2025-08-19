@@ -48,8 +48,6 @@ Behavior: Opens a dialog when clicking an applicant
 
 **Initial Confirm Changes Component - Dialog Confirm Component**<br/>
 Behavior: After clicking `Confirmed Changes`, display another modal to confirm changes
-<img width="1840" height="908" alt="image" src="https://github.com/user-attachments/assets/81e41e72-d493-4393-8e4f-8ca78f4ba06e" />
-
 State: **Inputting the Confirmed Text Input**<br/>
 <img width="1846" height="908" alt="Screenshot 2025-08-05 193350" src="https://github.com/user-attachments/assets/9f98532d-549d-43ea-8d55-95ef3e9c3b1e" />
 
